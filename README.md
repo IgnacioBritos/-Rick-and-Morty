@@ -1,25 +1,24 @@
-# Proyecto Integrador
+# API de Rick y Morty
 
-En este repositorio deberás desarrollar tu Proyecto Integrador. Durante el Módulo 2 trabajarás principalmente en la carpeta "front", luego en el Módulo 3 empezarás a utilizar la carpeta "back" (puedes dejarla así como está por el momento).
+Esta API te permite explorar información sobre los personajes de la serie Rick y Morty. Puedes iniciar sesión para acceder a funcionalidades adicionales, como marcar personajes como favoritos y eliminarlos de tu lista.
 
-En la carpeta "front" te encontrarás con un Proyecto inicializado con el Framework Vite. NO TE PREOCUPES, no debes cambiar ninguna configuración. Simplemente sigue las instrucciones de tu Instructor/a que te irá guiando y de las consignas de la Homework.
+## Funcionalidades
+- **Explorar Personajes:**
+  Utiliza el formulario de búsqueda para encontrar personajes por nombre, especie, etc.
 
-Recuerda que para realizar las peticiones a la API externa de Rick & Morty, utilizaremos la siguiente URL como ejemplo:
+- **Agregar a Favoritos:**
+  Marca tus personajes favoritos y guárdalos para referencia futura.
 
-https://rym2-production.up.railway.app/api/character/10?key={tu-api-key}
+- **Eliminar de Favoritos:**
+  Si cambias de opinión, puedes eliminar personajes de tu lista de favoritos.
 
-Donde tu API KEY está compuesta de la siguiente manera: `henrym-{tu-usuario-de-github}`
+## Explorar Personajes
 
-Recuerda que tu usuario de Github debe ir en minúsculas, por ejemplo: `henrym-misuaurio`
+Utiliza el formulario de búsqueda en la interfaz para encontrar personajes. Puedes filtrar por nombre, especie, género, etc. Los resultados te mostrarán detalles sobre cada personaje, como su imagen, nombre y detalles adicionales.
 
-Aspectos a tener en cuenta:
+## Favoritos
 
-- Recuerda ir PUSHEANDO los avances de tu proyecto diariamente. No importa si avanzaste mucho, poco, o todavía tienes consignas por completar. Es importante que vayas actualizando el repositorio con tu trabajo.
+Marca tus personajes favoritos haciendo clic en el botón de "Agregar a Favoritos". Puedes ver tu lista de favoritos en la sección correspondiente y eliminar personajes cuando quieras.
 
-- Es VITAL que utilices tu API KEY personal, y no la compartas con tus compañeros/as. 
 
-- Si alguna petición a la API te responde con un error, checkea bien que hayas escrito correctamente el endpoint y tu API KEY.
 
-Muchos éxitos en este Proyecto! # -Rick-and-Morty
-# -Rick-and-Morty
-# -Rick-and-Morty
