@@ -1,0 +1,17 @@
+.container-from-back {
+    background-image: url('https://wallpapercave.com/dwp1x/wp6737027.jpg');
+    background-size: cover; /* Ajustar la imagen al tamaño de la pantalla sin repetirla */
+    background-repeat: no-repeat; /* Evitar la repetición de la imagen */
+    background-attachment: fixed; /* Fijar la imagen de fondo para que no se desplace al hacer scroll */
+}
+  
+ 
+
+
+.container-home-back {
+    background-image: url('https://wallpapercave.com/wp/wp6737168.jpg');
+    background-size: cover; /* Ajustar la imagen al tamaño de la pantalla sin repetirla */
+    background-repeat: no-repeat; /* Evitar la repetición de la imagen */
+    background-attachment: fixed; /* Fijar la imagen de fondo para que no se desplace al hacer scroll */
+}
+  
